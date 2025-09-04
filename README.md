@@ -1,0 +1,2 @@
+This project is a food blog. I've learned how to make a home page with links to recipes, and recipe pages that link back to the home page. I know how to add links and images. I also was able to make unordered and ordered lists. 
+This project also helped me understand git and the git workflow better. 
